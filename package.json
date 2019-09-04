@@ -1,0 +1,14 @@
+{
+  "name": "dlt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha t/*"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-prototype-lib": "^1.29.3"
+  }
+}
